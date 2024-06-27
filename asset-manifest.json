@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4583f303.css",
-    "main.js": "/portfolio/static/js/main.0395d74e.js",
+    "main.js": "/portfolio/static/js/main.20b70738.js",
     "static/media/restoran.png": "/portfolio/static/media/restoran.543b88a3a7aae8731f7f.png",
     "static/media/NFT-market.png": "/portfolio/static/media/NFT-market.fdfd2a1fc466576a7afe.png",
     "static/media/coffee.png": "/portfolio/static/media/coffee.7af62bdea27f7736778b.png",
@@ -21,10 +21,10 @@
     "static/media/API.svg": "/portfolio/static/media/API.390ebf0678c5834c980751921aa2c054.svg",
     "index.html": "/portfolio/index.html",
     "main.4583f303.css.map": "/portfolio/static/css/main.4583f303.css.map",
-    "main.0395d74e.js.map": "/portfolio/static/js/main.0395d74e.js.map"
+    "main.20b70738.js.map": "/portfolio/static/js/main.20b70738.js.map"
   },
   "entrypoints": [
     "static/css/main.4583f303.css",
-    "static/js/main.0395d74e.js"
+    "static/js/main.20b70738.js"
   ]
 }
